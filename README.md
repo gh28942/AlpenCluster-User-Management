@@ -20,11 +20,11 @@ Then enter one of the following user credentials to connect to the DB:
         
 <b>Users & access:</b>
 
-"Der Franz"   rw
-"P4ssw0rd"
+        "Der Franz"   rw
+        "P4ssw0rd"
 
-"Der Jakob"   r
-"P4ssw0rd"
+        "Der Jakob"   r
+        "P4ssw0rd"
 <br><br>
 
 
@@ -32,6 +32,10 @@ Then enter one of the following user credentials to connect to the DB:
 Enter the SVNR into the text field and press the button to see the information about a user. The SVNR is the Austrian social security number and the unique id in this database implementation. 
 You can try out this functionalitiy with e.g. the following values: 0916191061, 3174240936, 4836270852, 7394070336 or 9806220478. 
 Leading zeroes exist in a real SVNR, but since the value is stored as a variable of type long (Int64), they are not stored in the MongoDB cluster.
+<br><br>
+
+![View user](screenshot/aum-scr3.jpg?raw=true "View user")
+<p align="center">View data of one user.</p>
 <br><br>
 
 <h2>Create</h2>
