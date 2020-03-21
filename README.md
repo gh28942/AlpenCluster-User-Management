@@ -1,5 +1,5 @@
 # AlpenCluster User Management
-A C# program that connects to a MongoDB cluster &amp; that can perform CRUD operations on it.
+A C# program that connects to an AWS MongoDB cluster &amp; that can perform CRUD operations on it.
 
 This program manages the data of over 267000 austrian users. The user information is stored in a MongoDB Cluster (the "AlpenCluster") and can be accessed through this program's User Interface. 
 
