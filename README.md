@@ -36,6 +36,7 @@ Leading zeroes exist in a real SVNR, but since the value is stored as a variable
 
 <h2>Create</h2>
 Create one MongoDB document, which represents a user in the database. Most values are optional, but you need to input the following values:
+
 <ul>
   <li>First name (Vorname)</li>
   <li>Last name (Nachname)</li>
@@ -86,6 +87,9 @@ Allows you to run DB queries and diagnostic commands, e.g.:
 </ul>
 Additionally, you can use the commands cls, quit and exit here. 
 
+![User manager console](screenshot/aum-scr2.jpg?raw=true "User manager console")
+<p align="center">Run DB console commands in the User Manager.</p>
+<br><br>
 
 
 
