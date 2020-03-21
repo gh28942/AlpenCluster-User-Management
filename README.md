@@ -4,6 +4,8 @@ A C# program that connects to an AWS MongoDB cluster &amp; that can perform CRUD
 This program manages the data of over 267000 austrian users. The user information is stored in a MongoDB Cluster (the "AlpenCluster") and can be accessed through this program's User Interface. 
 
 Get the Windows Installer for the program here: https://www.mediafire.com/file/hqjfgbs5zyvu579/usermanager-setup.exe/file
+
+See the program in use here: https://youtu.be/LH8vUJV8vC0
 <br><br>
 
 ![User list](screenshot/aum-scr1.jpg?raw=true "User list")
