@@ -11,7 +11,7 @@ This program manages the data of over 267000 austrian users. The user informatio
 <p align="center">See users and their data in a list.</p>
 <br><br>
 
-> Login
+<h2>Login</h2>
 
 You need to log in before you can use this program. This will create a connection to my SSL-protected cluster in the MongoDB cloud. To authenticate yourself, simply choose:
 
